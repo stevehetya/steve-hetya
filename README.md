@@ -1,7 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Steve Hetya</h1>
 <h3 align="center">A passionate frontend developer</h3>
-(img align="right" alt="Coding" width="400" src="C:\Users\hp\Documents\steve.jpeg.")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevehetya&label=Profile%20views&color=0e75b6&style=flat" alt="stevehetya" /> </p>
 
@@ -19,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hetyasteve" target="blank"><img align="center" src="://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hetyasteve" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevehetya&label=Profile%20views&color=0e75b6&style=flat" alt="stevehetya" /> </p>
 <a href="https://instagram.com/steve_hetya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steve_hetya" height="30" width="40" /></a>
 </p>
 
