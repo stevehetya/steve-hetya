@@ -1,10 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Steve Hetya</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<html>
     
-    <img src="C:\Users\hp\Desktop\web.html\steve.jpeg.jpeg"\steve.jpeg.jpeg"
-</html>
+    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevehetya&label=Profile%20views&color=0e75b6&style=flat" alt="stevehetya" /> </p>
 
