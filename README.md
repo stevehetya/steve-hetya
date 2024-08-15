@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Steve Hetya</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate data analyst </h3>
     
     
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **booking system**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **data related queries**
 
 - 📫 How to reach me **hetyasteve@gmail.com**
 
