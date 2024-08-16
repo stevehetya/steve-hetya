@@ -1,4 +1,4 @@
-https://www.google.com/imgres?q=data%20analyst%203D%20picture%20for%20github&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Ffbf24ea9d3eb1c62b1d9a7b93ea7c5608fd6d7bfc4f5d90a8d99adb2ea3429d4%2F68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251&imgrefurl=https%3A%2F%2Fgithub.com%2Fjayeshironside&docid=1k1UmkcCbt6qCM&tbnid=vkKDsrE2axXm0M&vet=12ahUKEwiQqemGhfmHAxXZSWwGHXgcHVkQM3oECG0QAA..i&w=1584&h=396&hcb=2&ved=2ahUKEwiQqemGhfmHAxXZSWwGHXgcHVkQM3oECG0QAA
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlKdFtX-i7rukgKiAFpx528Ap4zDk6togSd6s3VBYgEPwsIO2UoR62x1YILjey3od5w&usqp=CAU
 <h1 align="center">Hi 👋, I'm Steve Hetya</h1>
 <h3 align="center">A passionate Data Analyst </h3>
     
