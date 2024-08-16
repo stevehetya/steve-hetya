@@ -1,4 +1,5 @@
-<p>src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlKdFtX-i7rukgKiAFpx528Ap4zDk6togSd6s3VBYgEPwsIO2UoR62x1YILjey3od5w&usqp=CAU"</p>
+r![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Steve Hetya</h1>
 <h3 align="center">A passionate Data Analyst </h3>
     
